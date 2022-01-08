@@ -1,0 +1,393 @@
+{"level":30,"time":"2022-01-08T21:02:38.834Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Listening on 62179"}
+{"level":30,"time":"2022-01-08T21:02:38.904Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:38.905Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:38.908Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:38.908Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:38.911Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:39.892Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:39.898Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:39.898Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-08T21:02:39.918Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:40.066Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-08T21:02:40.066Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:40.605Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:40.610Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:40.801Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:40.803Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:40.804Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.carousel in page."}
+{"level":30,"time":"2022-01-08T21:02:40.827Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:40.831Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:40.831Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.navbar-item >> text=Olá Papito, seu saldo é R$ 1000 in page."}
+{"level":30,"time":"2022-01-08T21:02:40.837Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:40.841Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:40.841Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=a.button >> text=Fazer PIX in page."}
+{"level":30,"time":"2022-01-08T21:02:40.913Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:40.915Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:40.915Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.modal-card img in page."}
+{"level":30,"time":"2022-01-08T21:02:41.030Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:41.034Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:41.034Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2022-01-08T21:02:41.095Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:41.098Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:41.098Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-01-08T21:02:41.129Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:41.132Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:41.132Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-01-08T21:02:41.154Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:41.160Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:41.160Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=button >> text=\"Enviar PIX\" in page."}
+{"level":30,"time":"2022-01-08T21:02:41.217Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:41.238Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:41.238Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"019.341.441-09\")]/.. in page."}
+{"level":30,"time":"2022-01-08T21:02:41.243Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:41.247Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:41.247Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"019.341.441-09\")]/.. in page."}
+{"level":30,"time":"2022-01-08T21:02:41.260Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element xpath=//td[contains(text(), \"019.341.441-09\")]/.. containing 335-708-9253\tEnvio de PIX\tNeon - PIX para 019.341.441-09\t08/01/2022\tR$ -250 "}
+{"level":30,"time":"2022-01-08T21:02:41.260Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:41.263Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:41.263Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"019.341.441-09\")]/.. in page."}
+{"level":30,"time":"2022-01-08T21:02:41.273Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element xpath=//td[contains(text(), \"019.341.441-09\")]/.. containing 335-708-9253\tEnvio de PIX\tNeon - PIX para 019.341.441-09\t08/01/2022\tR$ -250 "}
+{"level":30,"time":"2022-01-08T21:02:41.273Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:41.276Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:41.276Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"019.341.441-09\")]/.. in page."}
+{"level":30,"time":"2022-01-08T21:02:41.284Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element xpath=//td[contains(text(), \"019.341.441-09\")]/.. containing 335-708-9253\tEnvio de PIX\tNeon - PIX para 019.341.441-09\t08/01/2022\tR$ -250 "}
+{"level":30,"time":"2022-01-08T21:02:41.284Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:41.290Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:41.410Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:41.412Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:41.414Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:41.416Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:41.416Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:41.416Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:41.419Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:41.422Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:41.424Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:41.424Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:41.427Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:41.427Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:41.430Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:41.430Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:41.430Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:41.432Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:41.469Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:41.477Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:41.477Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:41.482Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:42.505Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:42.509Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:42.509Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-08T21:02:42.521Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:42.676Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-08T21:02:42.676Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:43.173Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:43.176Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:43.374Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:43.377Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.377Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.carousel in page."}
+{"level":30,"time":"2022-01-08T21:02:43.396Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.399Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.399Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.navbar-item >> text=Olá Papito, seu saldo é R$ 1000 in page."}
+{"level":30,"time":"2022-01-08T21:02:43.406Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.409Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:43.409Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=a.button >> text=Fazer PIX in page."}
+{"level":30,"time":"2022-01-08T21:02:43.474Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:43.476Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.477Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.modal-card img in page."}
+{"level":30,"time":"2022-01-08T21:02:43.587Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.593Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:43.593Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2022-01-08T21:02:43.650Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:43.652Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:43.652Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-01-08T21:02:43.683Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:43.685Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:43.685Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-01-08T21:02:43.710Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:43.714Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:43.714Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=button >> text=\"Enviar PIX\" in page."}
+{"level":30,"time":"2022-01-08T21:02:43.759Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:43.763Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.763Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:43.769Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:43.772Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:43.772Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:43.781Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:43.781Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:43.784Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:43.895Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:43.898Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:43.900Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:43.901Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:43.901Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:43.901Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:43.906Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:43.907Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:43.908Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:43.908Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:43.910Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:43.910Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:43.912Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:43.912Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:43.912Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:43.913Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:43.949Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:43.952Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:43.952Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:43.958Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:44.955Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:44.959Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:44.959Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-08T21:02:44.973Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:45.144Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-08T21:02:45.144Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:45.646Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:45.649Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:45.865Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:45.867Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:45.867Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.carousel in page."}
+{"level":30,"time":"2022-01-08T21:02:45.882Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:45.884Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:45.885Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.navbar-item >> text=Olá Papito, seu saldo é R$ 1000 in page."}
+{"level":30,"time":"2022-01-08T21:02:45.892Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:45.895Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:45.895Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=a.button >> text=Fazer PIX in page."}
+{"level":30,"time":"2022-01-08T21:02:45.959Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:45.961Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:45.962Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.modal-card img in page."}
+{"level":30,"time":"2022-01-08T21:02:46.077Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:46.081Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:46.081Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2022-01-08T21:02:46.135Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:46.138Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:46.139Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-01-08T21:02:46.167Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:46.169Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:46.169Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-01-08T21:02:46.191Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:46.194Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:46.195Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=button >> text=\"Enviar PIX\" in page."}
+{"level":30,"time":"2022-01-08T21:02:46.243Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:46.246Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:46.246Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:46.250Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:46.251Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:46.251Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:46.263Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Saldo insuficiente :("}
+{"level":30,"time":"2022-01-08T21:02:46.263Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:46.266Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:46.385Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:46.391Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:46.392Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:46.394Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:46.394Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:46.394Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:46.398Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:46.399Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:46.400Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:46.401Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:46.401Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:46.401Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:46.403Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:46.403Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:46.403Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:46.405Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:46.445Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:46.448Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:46.448Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:46.451Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:47.576Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-08T21:02:47.580Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:47.580Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-08T21:02:47.604Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:47.777Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-08T21:02:47.777Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:48.256Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-08T21:02:48.260Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:48.469Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method goTo"}
+{"level":30,"time":"2022-01-08T21:02:48.472Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.472Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.carousel in page."}
+{"level":30,"time":"2022-01-08T21:02:48.492Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.496Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.496Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.navbar-item >> text=Olá Papito, seu saldo é R$ 1000 in page."}
+{"level":30,"time":"2022-01-08T21:02:48.502Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.505Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:48.505Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=a.button >> text=Fazer PIX in page."}
+{"level":30,"time":"2022-01-08T21:02:48.576Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:48.578Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.578Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.modal-card img in page."}
+{"level":30,"time":"2022-01-08T21:02:48.684Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.690Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:48.690Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2022-01-08T21:02:48.746Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-08T21:02:48.748Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:48.748Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-01-08T21:02:48.777Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:48.779Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:48.779Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-01-08T21:02:48.800Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-08T21:02:48.804Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-08T21:02:48.804Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=button >> text=\"Enviar PIX\" in page."}
+{"level":30,"time":"2022-01-08T21:02:48.857Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method click"}
+{"level":30,"time":"2022-01-08T21:02:48.863Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.863Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:48.868Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-08T21:02:48.870Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.870Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:48.881Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:48.881Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.894Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.894Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:48.902Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:48.902Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.925Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.925Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:48.933Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:48.934Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.956Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.956Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:48.965Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:48.965Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.988Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:48.988Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:48.999Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:48.999Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.018Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.018Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.030Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.030Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.049Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.049Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.063Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.063Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.080Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.080Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.092Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.092Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.111Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.111Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.119Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.119Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.143Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.143Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.150Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.150Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.173Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.173Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.181Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.181Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.204Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.205Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.213Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.213Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.235Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.235Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.245Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.245Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.265Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.265Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.277Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.277Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.297Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.297Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.306Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.306Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.327Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.327Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.336Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.336Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.359Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.359Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.370Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.370Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.390Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.391Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.399Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.399Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.421Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.422Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.432Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.432Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.454Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.454Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.465Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.465Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.483Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.483Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.496Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.496Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.514Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.514Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.528Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.528Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.544Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.544Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.554Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.554Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.576Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.576Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.583Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.583Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.607Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.607Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.615Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.616Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.638Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.638Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.646Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.646Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.667Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.668Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.677Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.677Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.699Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.699Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.708Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.708Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.731Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.731Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.742Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.742Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.763Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.763Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.772Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.772Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.794Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.794Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.802Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.802Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.825Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.825Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.835Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.835Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.857Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.857Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.866Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.866Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.889Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.889Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Strict mode is enabled, find Locator with css=.message-body in page."}
+{"level":30,"time":"2022-01-08T21:02:49.896Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Retrieved text for element css=.message-body containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-01-08T21:02:49.897Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-08T21:02:49.898Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:50.002Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:50.008Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:50.133Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-08T21:02:50.136Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:50.138Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:50.139Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:50.139Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:50.139Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:50.143Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:50.144Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:50.146Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:50.146Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:50.147Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:50.147Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-08T21:02:50.148Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active context"}
+{"level":30,"time":"2022-01-08T21:02:50.148Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-08T21:02:50.148Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Changed active page"}
+{"level":30,"time":"2022-01-08T21:02:50.149Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:50.183Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-01-08T21:02:50.188Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:50.188Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-08T21:02:50.250Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-01-08T21:02:51.138Z","pid":2032,"hostname":"BSBNOTLOC084","msg":"End of node method closeAllBrowsers"}
